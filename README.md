@@ -70,7 +70,7 @@ rmthumbnail
 removethumbnail
 delthumbnail
 deletethumbnail
-
+https://www.heroku.com/deploy/?template=https://github.com/hyper-ub/lazyleech
 watermark <as reply to image or as a caption>
 setwatermark <as reply to image or as a caption>
 savewatermark <as reply to image or as a caption>
