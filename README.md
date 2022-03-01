@@ -14,7 +14,7 @@
 - [TEST THE BOT (DEMO)](https://t.me/joinchat/HC7YmklXMSRPH3N2)
 - [CREDITS](#credits-)
 - [POINTS TO BE NOTED](#points-to-be-noted)
-
+https://www.heroku.com/deploy/?template=https://github.com/hyper-ub/lazyleech
 
 # What is this repo about?
 This is a telegram bot writen with pyrogram for leeching files on the internet to Telegram.
@@ -70,7 +70,6 @@ rmthumbnail
 removethumbnail
 delthumbnail
 deletethumbnail
-https://www.heroku.com/deploy/?template=https://github.com/hyper-ub/lazyleech
 watermark <as reply to image or as a caption>
 setwatermark <as reply to image or as a caption>
 savewatermark <as reply to image or as a caption>
