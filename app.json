@@ -1,10 +1,8 @@
 {
   "name": "Telegram Torrent Leecher",
-  "description": "A Telegram Torrent Leecher and ytdl bot based on Pyrogram!",
   "keywords": [
     "telegram"
   ],
-  "repository": "https://github.com/lostb053/lazyleech",
   "stack": "container",
   "env":{
         "API_ID":{
